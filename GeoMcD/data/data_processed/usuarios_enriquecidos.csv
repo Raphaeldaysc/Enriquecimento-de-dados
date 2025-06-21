@@ -1,0 +1,201 @@
+﻿nome,genero,email,usuario,nascimento,idade,telefone,cidade,estado,faixa_etaria,banco,salario_simulado
+Regino Carvalho,male,regino.carvalho@example.com,beautifulzebra709,1990-01-04T07:03:58.114Z,35,(28) 7808-3970,Bauru,Amazonas,30 a 49 anos,STONE IP S.A.,4936
+Célsio Lopes,male,celsio.lopes@example.com,angrysnake967,1993-07-24T08:41:10.565Z,31,(43) 6786-9338,Limeira,Rio Grande do Sul,30 a 49 anos,BCO HSBC S.A.,7773
+Adolfo Moura,male,adolfo.moura@example.com,happyrabbit286,2000-10-06T03:12:10.336Z,24,(20) 5878-4865,Araucária,Paraíba,18 a 29 anos,CECM DOS TRAB.PORT. DA G.VITOR,1931
+Almiro Mendes,male,almiro.mendes@example.com,purpleostrich670,1952-10-13T22:42:45.670Z,72,(25) 3347-4145,Porto Alegre,Minas Gerais,50 anos ou mais,LIGA INVEST DTVM LTDA.,6727
+Catalina Farias,female,catalina.farias@example.com,crazygoose129,1988-01-03T12:44:25.736Z,37,(76) 8132-3113,Paulista,Pará,30 a 49 anos,GLOBAL SCM LTDA,9032
+Liliana Barros,female,liliana.barros@example.com,yellowfish276,1982-05-24T20:50:58.788Z,43,(53) 4909-5834,São José de Ribamar,Paraná,30 a 49 anos,TRAVELEX BANCO DE CÂMBIO S.A.,9710
+Marta Campos,female,marta.campos@example.com,blackwolf462,1979-07-11T12:38:34.604Z,45,(85) 3786-4024,Sobral,Alagoas,30 a 49 anos,SCFI EFÍ S.A.,9044
+Elisabeth Rodrigues,female,elisabeth.rodrigues@example.com,smallgorilla804,1987-09-18T03:31:55.735Z,37,(03) 0806-3279,Uruguaiana,Roraima,30 a 49 anos,Banco X,4542
+Santelmo Costa,male,santelmo.costa@example.com,whitelion188,1948-12-18T21:20:20.907Z,76,(43) 3066-4778,Juiz de Fora,Sergipe,50 anos ou mais,RJI,5382
+Noélia Carvalho,female,noelia.carvalho@example.com,tinykoala370,2001-03-21T05:20:07.563Z,24,(54) 3019-3641,Cubatão,Acre,18 a 29 anos,GLOBAL SCM LTDA,2670
+Dinarte da Cunha,male,dinarte.dacunha@example.com,ticklishelephant223,2000-06-03T21:04:19.481Z,25,(78) 6937-6160,Rio Claro,Rio Grande do Sul,18 a 29 anos,XP INVESTIMENTOS CCTVM S/A,1765
+Meire Freitas,female,meire.freitas@example.com,goldentiger954,1998-05-20T09:08:18.198Z,27,(74) 7566-3486,Marília,Paraná,18 a 29 anos,ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO,1580
+Marilu Souza,female,marilu.souza@example.com,angrygoose450,1979-11-13T13:37:03.388Z,45,(74) 9085-2696,Teresópolis,Ceará,30 a 49 anos,CREDIFIT SCD S.A.,8617
+Marcus Moreira,male,marcus.moreira@example.com,happykoala794,1977-08-03T12:31:19.117Z,47,(45) 2455-3291,Paranaguá,Pará,30 a 49 anos,CRED-UFES,9294
+Almurtão da Cruz,male,almurtao.dacruz@example.com,bluegoose853,1969-01-04T10:51:45.724Z,56,(98) 7550-0071,Guarujá,Bahia,50 anos ou mais,MÉRITO DTVM LTDA.,9656
+Evélio Nogueira,male,evelio.nogueira@example.com,greenmouse748,1947-02-06T08:46:42.365Z,78,(91) 8654-5761,Balneário Camboriú,Distrito Federal,50 anos ou mais,STONE IP S.A.,8848
+Maricilda Lopes,female,maricilda.lopes@example.com,purplelion930,1999-06-19T04:31:47.809Z,26,(62) 0688-3629,Bragança Paulista,São Paulo,18 a 29 anos,BS2 DTVM S.A.,1483
+Arnoldo Sales,male,arnoldo.sales@example.com,orangelion875,1994-02-16T20:00:01.975Z,31,(24) 3032-9245,Toledo,Tocantins,30 a 49 anos,BCO SANTANDER (BRASIL) S.A.,5530
+Jane Dias,female,jane.dias@example.com,bigmeercat604,1991-06-15T14:54:43.044Z,34,(17) 7958-2367,Palmas,Mato Grosso,30 a 49 anos,STN,5658
+Cristofe Alves,male,cristofe.alves@example.com,bigcat694,1991-01-27T22:56:56.267Z,34,(14) 5374-8771,Sumaré,Mato Grosso,30 a 49 anos,LECCA CFI S.A.,9804
+Roboredo Novaes,male,roboredo.novaes@example.com,lazykoala282,1995-04-14T22:41:46.206Z,30,(77) 8765-6399,Natal,Sergipe,30 a 49 anos,CECM COOPERFORTE,5864
+Carlos Oliveira,male,carlos.oliveira@example.com,whitegoose660,1993-11-10T20:26:49.023Z,31,(64) 5545-8685,Muriaé,Amapá,30 a 49 anos,CCM DESP TRÂNS SC E RS,3510
+Geni da Rocha,female,geni.darocha@example.com,smallcat564,1949-09-11T15:16:36.771Z,75,(70) 7338-7492,Corumbá,Goiás,50 anos ou mais,BANCO JOHN DEERE S.A.,4875
+Sadi Pires,male,sadi.pires@example.com,saddog392,1972-08-01T13:01:13.732Z,52,(64) 9363-7067,Teixeira de Freitas,Pernambuco,50 anos ou mais,BCO AFINZ S.A. - BM,6638
+Lucrécia Moreira,female,lucrecia.moreira@example.com,bluesnake160,1990-11-12T14:24:09.864Z,34,(87) 2486-5156,Juazeiro do Norte,Rio Grande do Norte,30 a 49 anos,LAMARA SCD S.A.,8485
+Déborah Almeida,female,deborah.almeida@example.com,tinyladybug212,1981-10-07T15:55:54.988Z,43,(76) 3431-7797,Rondonópolis,Pernambuco,30 a 49 anos,BCO RABOBANK INTL BRASIL S.A.,6870
+Oto da Conceição,male,oto.daconceicao@example.com,blueostrich175,1959-11-16T15:27:14.280Z,65,(03) 5606-3623,Juiz de Fora,Rio de Janeiro,50 anos ou mais,WARREN CVMC LTDA,8122
+Graça Monteiro,female,graca.monteiro@example.com,sadbird441,1961-04-06T06:09:33.150Z,64,(49) 1717-7483,Canoas,Santa Catarina,50 anos ou mais,BCO J.P. MORGAN S.A.,4418
+Ioque da Rocha,male,ioque.darocha@example.com,yellowlion928,1960-07-19T04:47:02.418Z,64,(83) 9755-9197,São João de Meriti,Mato Grosso do Sul,50 anos ou mais,FITBANK IP,7440
+Gorete Rezende,female,gorete.rezende@example.com,goldenduck181,1970-04-27T14:09:15.014Z,55,(11) 5720-4232,Nilópolis,Bahia,50 anos ou mais,BCO BS2 S.A.,9856
+Rosivalda Aragão,female,rosivalda.aragao@example.com,orangerabbit614,1944-12-05T21:47:38.738Z,80,(01) 1491-2560,Sete Lagoas,Rondônia,50 anos ou mais,FIDUCIA SCMEPP LTDA,8075
+Tirso Duarte,male,tirso.duarte@example.com,ticklishbear566,1997-02-04T00:05:51.943Z,28,(89) 7739-1466,Nossa Senhora do Socorro,São Paulo,18 a 29 anos,DOCK IP S.A.,2459
+Claudine Ribeiro,female,claudine.ribeiro@example.com,blackmeercat414,1967-05-06T02:50:05.003Z,58,(74) 8795-5739,Guarapuava,Goiás,50 anos ou mais,COOPCENTRAL AILOS,5251
+Maximino Barbosa,male,maximino.barbosa@example.com,angrybird545,1997-02-11T02:55:24.567Z,28,(09) 2840-2050,Anápolis,Acre,18 a 29 anos,LECCA CFI S.A.,1854
+Expedito da Rocha,male,expedito.darocha@example.com,ticklishbutterfly436,1981-11-05T03:43:51.995Z,43,(28) 3071-0416,Rio Verde,Rio de Janeiro,30 a 49 anos,BCO SOFISA S.A.,7694
+Zelmira da Paz,female,zelmira.dapaz@example.com,bigostrich847,1985-07-28T19:31:16.515Z,39,(65) 7124-9097,Cabo de Santo Agostinho,Bahia,30 a 49 anos,F D GOLD DTVM LTDA,4582
+Evandro Alves,male,evandro.alves@example.com,whitekoala524,1964-09-21T16:02:51.093Z,60,(86) 2569-8153,Ferraz de Vasconcelos,Distrito Federal,50 anos ou mais,CCR DE SÃO MIGUEL DO OESTE,6893
+Zanete Teixeira,female,zanete.teixeira@example.com,silverleopard141,1968-10-24T23:31:49.984Z,56,(49) 0067-5510,São Paulo,Rio Grande do Norte,50 anos ou mais,BANCO ORIGINAL,3697
+Emília Lima,female,emilia.lima@example.com,goldenfrog442,1952-09-06T08:50:36.014Z,72,(97) 5478-7096,Taboão da Serra,Amazonas,50 anos ou mais,CORA SCD S.A.,9262
+Telma Ferreira,female,telma.ferreira@example.com,browncat182,1971-05-06T22:29:52.576Z,54,(72) 7565-7490,Ibirité,Rio Grande do Sul,50 anos ou mais,FITBANK IP,9352
+Soraia Vieira,female,soraia.vieira@example.com,happyfrog120,1999-07-29T12:43:46.994Z,25,(25) 6544-4596,Passos,Distrito Federal,18 a 29 anos,BCO YAMAHA MOTOR S.A.,2176
+Quirino Moraes,male,quirino.moraes@example.com,ticklishzebra113,1975-01-17T03:05:45.856Z,50,(52) 5476-4560,Umuarama,Sergipe,50 anos ou mais,CECM COOPERFORTE,6997
+Isabel Pereira,female,isabel.pereira@example.com,redpanda646,1994-03-07T12:17:07.674Z,31,(12) 5551-0755,Lauro de Freitas,Mato Grosso,30 a 49 anos,CECM FABRIC CALÇADOS SAPIRANGA,9443
+Zoraia Costa,female,zoraia.costa@example.com,purpleostrich522,1966-06-21T21:18:50.964Z,58,(71) 2308-4393,Botucatu,Maranhão,50 anos ou mais,UBS BRASIL CCTVM S.A.,5935
+Abel Costa,male,abel.costa@example.com,happypeacock963,1963-12-08T13:12:23.142Z,61,(73) 5371-7375,Santa Bárbara D'Oeste,Espírito Santo,50 anos ou mais,CAIXA ECONOMICA FEDERAL,9120
+Donzílio Fernandes,male,donzilio.fernandes@example.com,bluebutterfly284,1977-01-03T14:09:54.338Z,48,(26) 0371-5471,Valinhos,Rio de Janeiro,30 a 49 anos,STN,4778
+Nuno Jesus,male,nuno.jesus@example.com,heavyladybug399,1978-07-23T19:36:56.618Z,46,(76) 5713-6446,Criciúma,Pernambuco,30 a 49 anos,FFCRED SCD S.A.,9752
+Nairele da Cunha,female,nairele.dacunha@example.com,ticklishbird550,1971-04-12T11:16:55.766Z,54,(02) 0470-3827,Caxias,Pará,50 anos ou mais,BCO SOCIETE GENERALE BRASIL,4268
+Ângelo Monteiro,male,angelo.monteiro@example.com,silverbear205,1953-02-02T21:46:03.432Z,72,(94) 0547-6616,Araçatuba,Paraíba,50 anos ou mais,MAGNUM SCD,4061
+Wanner Fernandes,female,wanner.fernandes@example.com,crazycat688,1954-05-13T19:50:24.128Z,71,(72) 9328-5130,Alagoinhas,Piauí,50 anos ou mais,BCO BBI S.A.,8192
+Luciane Lopes,female,luciane.lopes@example.com,brownpeacock147,1989-01-29T01:01:22.650Z,36,(77) 6351-2110,Cotia,Minas Gerais,30 a 49 anos,ATICCA SCD S.A.,4488
+Cursino Mendes,male,cursino.mendes@example.com,lazyswan494,1989-04-17T09:29:57.006Z,36,(38) 2205-7510,Macaé,Sergipe,30 a 49 anos,BCO YAMAHA MOTOR S.A.,5761
+Vili Oliveira,male,vili.oliveira@example.com,ticklishcat733,1977-06-11T19:14:02.363Z,48,(66) 1066-1728,Brasília,Rondônia,30 a 49 anos,BCO BNP PARIBAS BRASIL S A,6264
+Pio Melo,male,pio.melo@example.com,purplezebra754,1968-10-29T02:43:07.714Z,56,(91) 5055-3017,Recife,Goiás,50 anos ou mais,TORO CTVM S.A.,9355
+Oneide Fernandes,female,oneide.fernandes@example.com,orangebutterfly988,1986-07-11T19:54:30.715Z,38,(55) 1978-0838,Ourinhos,São Paulo,30 a 49 anos,MAGNUM SCD,8748
+Libertário das Neves,male,libertario.dasneves@example.com,purpletiger728,1952-08-20T06:41:04.595Z,72,(19) 8722-0308,Santos,Mato Grosso do Sul,50 anos ou mais,Câmara B3,9211
+Norberto Pinto,male,norberto.pinto@example.com,blueswan616,1974-08-03T15:02:57.953Z,50,(86) 3415-3507,Patos,Distrito Federal,50 anos ou mais,SISPRIME DO BRASIL - COOP,8836
+Elzo Ferreira,male,elzo.ferreira@example.com,brownkoala814,1974-06-23T07:32:02.607Z,50,(24) 4505-2135,Rio Branco,São Paulo,50 anos ou mais,BCO PAULISTA S.A.,8458
+Graciete Dias,female,graciete.dias@example.com,crazylion821,1971-03-08T01:19:54.570Z,54,(26) 1846-9664,Poços de Caldas,Roraima,50 anos ou mais,CIP SA Siloc,4148
+Keli Santos,female,keli.santos@example.com,bigrabbit304,1975-06-11T02:32:34.974Z,50,(75) 8979-8650,Santana de Parnaíba,Roraima,50 anos ou mais,EBANX IP LTDA.,8800
+Pilar Porto,female,pilar.porto@example.com,blackkoala640,1980-09-12T04:15:36.938Z,44,(19) 2694-3687,Santa Rita,Amazonas,30 a 49 anos,UP.P SEP S.A.,3796
+Enrique das Neves,male,enrique.dasneves@example.com,sadkoala542,1999-08-27T18:49:30.259Z,25,(55) 8875-9450,Indaiatuba,Santa Catarina,18 a 29 anos,BCO BOCOM BBM S.A.,1935
+Breno Melo,male,breno.melo@example.com,bluewolf283,1983-05-25T14:23:34.346Z,42,(30) 3405-0325,São Leopoldo,Amapá,30 a 49 anos,BCO J.P. MORGAN S.A.,4923
+Domingas Fernandes,female,domingas.fernandes@example.com,blackostrich246,1960-09-19T12:08:18.436Z,64,(88) 7801-4157,Ilhéus,Pernambuco,50 anos ou mais,PEFISA S.A. - C.F.I.,4608
+Aarão Martins,male,aarao.martins@example.com,browngorilla579,1945-01-24T08:47:29.878Z,80,(30) 1894-3923,Hortolândia,Maranhão,50 anos ou mais,BCO INDUSTRIAL DO BRASIL S.A.,7229
+Aníbal Vieira,male,anibal.vieira@example.com,whitedog726,1947-04-22T20:13:15.608Z,78,(55) 5521-0257,Linhares,São Paulo,50 anos ou mais,BANCO MASTER,4471
+Ilaine da Cruz,female,ilaine.dacruz@example.com,ticklishkoala255,1980-01-10T12:18:05.360Z,45,(72) 0844-3456,Eunápolis,Tocantins,30 a 49 anos,BCO DO EST. DE SE S.A.,5419
+Neura Moura,female,neura.moura@example.com,beautifulladybug773,1957-07-07T01:13:43.692Z,67,(80) 2775-5473,Ananindeua,Mato Grosso,50 anos ou mais,CCR DE ABELARDO LUZ,6568
+Alma Moura,female,alma.moura@example.com,crazyostrich692,1965-09-18T06:49:51.895Z,59,(59) 4545-0942,Mauá,Espírito Santo,50 anos ou mais,DELCRED SCD S.A.,4122
+Baldomero Ramos,male,baldomero.ramos@example.com,orangekoala852,1953-09-03T09:30:11.960Z,71,(98) 6264-3520,Paranaguá,Piauí,50 anos ou mais,NU INVEST CORRETORA DE VALORES S.A.,4573
+Vili Araújo,male,vili.araujo@example.com,silverwolf125,1983-03-06T00:27:27.246Z,42,(83) 8942-1447,Goiânia,Alagoas,30 a 49 anos,LEND SCD S.A.,5170
+Celino Fernandes,male,celino.fernandes@example.com,redleopard769,1988-07-04T23:33:21.795Z,36,(10) 8477-0801,Itapetininga,Distrito Federal,30 a 49 anos,BCO MIZUHO S.A.,3889
+Lílian Martins,female,lilian.martins@example.com,orangetiger946,1995-11-16T13:37:04.625Z,29,(48) 6708-7738,Araucária,Acre,18 a 29 anos,CORA SCD S.A.,2981
+Denazaide Viana,female,denazaide.viana@example.com,redswan236,1967-08-31T07:28:09.376Z,57,(08) 6277-0388,Itaguaí,Minas Gerais,50 anos ou mais,Câmbio B3,5964
+Irísia Fogaça,female,irisia.fogaca@example.com,redduck140,1979-07-01T10:03:33.387Z,45,(60) 8719-5801,Cametá,Rio de Janeiro,30 a 49 anos,CREDIHOME SCD,4351
+Cid Barbosa,male,cid.barbosa@example.com,bluemeercat963,1957-03-16T11:28:50.253Z,68,(59) 1496-9229,Porto Seguro,Paraná,50 anos ou mais,TULLETT PREBON BRASIL CVC LTDA,7233
+Randolfo Gomes,male,randolfo.gomes@example.com,yellowrabbit945,1964-05-12T06:56:19.316Z,61,(53) 4303-5401,Mogi das Cruzes,Paraíba,50 anos ou mais,MARU SCD S.A.,8418
+Vani Cavalcanti,female,vani.cavalcanti@example.com,yellowmeercat769,1996-12-29T08:14:44.485Z,28,(82) 6492-6066,Jaraguá do Sul,Roraima,18 a 29 anos,CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO,2401
+Dércio Lima,male,dercio.lima@example.com,angrybear873,1954-04-22T08:56:45.132Z,71,(60) 5346-7935,Itabuna,Pará,50 anos ou mais,RJI,6359
+Ausendo Barros,male,ausendo.barros@example.com,brownsnake958,1949-03-13T13:46:10.288Z,76,(18) 0662-4948,Alagoinhas,Rio de Janeiro,50 anos ou mais,AMAZÔNIA CC LTDA.,5518
+Quaresma da Rosa,male,quaresma.darosa@example.com,greengorilla171,1993-04-13T18:29:23.172Z,32,(29) 2516-8173,Palhoça,Amazonas,30 a 49 anos,CCM SERV. PÚBLICOS SP,9559
+Jadira Barros,female,jadira.barros@example.com,orangelion834,1997-10-05T15:49:14.636Z,27,(55) 5198-0078,Taboão da Serra,Pernambuco,18 a 29 anos,NOVO BCO CONTINENTAL S.A. - BM,2552
+Acira Costa,female,acira.costa@example.com,silversnake937,1980-08-15T19:22:06.222Z,44,(79) 1823-3019,Itapecerica da Serra,Pernambuco,30 a 49 anos,BCO BNP PARIBAS BRASIL S A,4357
+Cidélia da Mota,female,cidelia.damota@example.com,blackostrich601,2000-08-18T06:59:37.665Z,24,(82) 4912-8490,Criciúma,Paraíba,18 a 29 anos,BCO BMG S.A.,2706
+Virgínia da Cruz,female,virginia.dacruz@example.com,angrypanda863,1967-06-21T09:14:49.482Z,58,(12) 2195-6102,Ipatinga,Sergipe,50 anos ou mais,BCO DO EST. DO PA S.A.,6661
+Neusita Gomes,female,neusita.gomes@example.com,tinygoose897,1970-10-09T17:27:58.842Z,54,(33) 8097-4874,Goiânia,Rio Grande do Sul,50 anos ou mais,OLIVEIRA TRUST DTVM S.A.,5670
+Filinto Porto,male,filinto.porto@example.com,angrywolf830,1985-08-04T01:10:26.600Z,39,(14) 3166-2188,Palhoça,Sergipe,30 a 49 anos,PORTOSEG S.A. CFI,6375
+Raquel Lopes,female,raquel.lopes@example.com,greenmeercat235,1959-08-13T09:52:39.779Z,65,(00) 0647-4444,Volta Redonda,Ceará,50 anos ou mais,CAMBIONET CC LTDA,8394
+Silvério da Costa,male,silverio.dacosta@example.com,tinykoala608,1948-06-11T00:28:34.350Z,77,(13) 6781-6126,Araraquara,Rondônia,50 anos ou mais,BCO GM S.A.,5779
+Valdira Sales,female,valdira.sales@example.com,smallpanda731,1949-11-12T03:12:19.333Z,75,(36) 0645-2807,Indaiatuba,Rio Grande do Sul,50 anos ou mais,TRINUS CAPITAL DTVM,9014
+Conrado Pinto,male,conrado.pinto@example.com,silverkoala723,1993-11-05T13:25:29.258Z,31,(55) 1148-7583,Viamão,Amapá,30 a 49 anos,WARREN CVMC LTDA,9436
+Zilma Farias,female,zilma.farias@example.com,lazywolf958,1952-02-08T07:29:59.536Z,73,(20) 6419-8238,Arapiraca,Minas Gerais,50 anos ou mais,NU FINANCEIRA S.A. CFI,6145
+Loreta de Souza,female,loreta.desouza@example.com,redmouse820,1955-03-12T15:45:23.024Z,70,(43) 0829-0111,Carapicuíba,Rondônia,50 anos ou mais,BANCO VOITER,3825
+Cleusa Fogaça,female,cleusa.fogaca@example.com,whitegoose824,1949-09-20T12:47:35.105Z,75,(23) 7648-1296,Franca,Piauí,50 anos ou mais,BCO SUMITOMO MITSUI BRASIL S.A.,4894
+Clemêncio Viana,male,clemencio.viana@example.com,ticklishbear882,1963-08-10T08:20:33.320Z,61,(30) 8394-9054,Pinhais,Amazonas,50 anos ou mais,BCO TRICURY S.A.,5217
+Leidemere Castro,female,leidemere.castro@example.com,greenbutterfly317,1971-08-07T07:35:28.062Z,53,(54) 2563-0249,Brusque,Amapá,50 anos ou mais,NOVO BCO CONTINENTAL S.A. - BM,4001
+Orósio da Rocha,male,orosio.darocha@example.com,angrylion810,1995-07-11T05:59:07.020Z,29,(64) 3884-6210,João Pessoa,Goiás,18 a 29 anos,BCO MERCEDES-BENZ S.A.,2001
+Falcão Araújo,male,falcao.araujo@example.com,angrydog913,1998-04-25T00:15:07.331Z,27,(19) 1726-7139,Foz do Iguaçu,São Paulo,18 a 29 anos,ID CTVM,1994
+Joselindo Nascimento,male,joselindo.nascimento@example.com,organicelephant188,1978-10-05T17:00:18.303Z,46,(52) 1910-8564,Sinop,Mato Grosso,30 a 49 anos,FITBANK IP,3672
+Janai Souza,male,janai.souza@example.com,greentiger562,2000-06-25T23:45:28.757Z,24,(51) 1551-4462,Porto Seguro,Sergipe,18 a 29 anos,J17 - SCD S/A,2804
+Noêmia de Souza,female,noemia.desouza@example.com,bluebear362,1961-06-17T10:51:00.203Z,64,(68) 9201-0995,Canoas,Goiás,50 anos ou mais,SOCRED SA - SCMEPP,8409
+Floriano Araújo,male,floriano.araujo@example.com,beautifulduck895,1952-07-02T05:35:57.875Z,72,(10) 9527-4771,Almirante Tamandaré,Bahia,50 anos ou mais,PLANNER SOCIEDADE DE CRÉDITO DIRETO,8231
+Altamira Caldeira,female,altamira.caldeira@example.com,whiteleopard951,1979-12-30T11:14:13.447Z,45,(83) 6657-2592,Divinópolis,Bahia,30 a 49 anos,NU INVEST CORRETORA DE VALORES S.A.,4648
+Lenita Souza,female,lenita.souza@example.com,lazypanda584,1960-06-02T17:29:55.150Z,65,(55) 6652-5284,Mauá,Sergipe,50 anos ou mais,BCO SUMITOMO MITSUI BRASIL S.A.,3725
+Norisete Santos,female,norisete.santos@example.com,tinycat924,1953-09-18T17:22:48.498Z,71,(50) 2028-0631,Jaraguá do Sul,Pará,50 anos ou mais,CREFAZ SCMEPP LTDA,5985
+Elza Ferreira,female,elza.ferreira@example.com,goldenpeacock661,1960-09-22T11:02:06.485Z,64,(88) 7709-3014,Goiânia,Acre,50 anos ou mais,QISTA S.A. CFI,8805
+Hercília Cavalcanti,female,hercilia.cavalcanti@example.com,silvergoose575,1982-05-03T21:44:39.939Z,43,(89) 0976-9165,Viamão,Goiás,30 a 49 anos,CIELO IP S.A.,8761
+Arquimino Cavalcanti,male,arquimino.cavalcanti@example.com,goldenleopard676,1994-10-07T05:27:04.359Z,30,(76) 9918-9242,Itabuna,Sergipe,30 a 49 anos,BCO RENDIMENTO S.A.,9922
+Veneranda Porto,female,veneranda.porto@example.com,lazysnake128,1945-05-19T21:10:48.083Z,80,(09) 3792-1608,Porto Velho,Roraima,50 anos ou mais,UNIPRIME COOPCENTRAL LTDA.,7887
+Nanci Araújo,female,nanci.araujo@example.com,organicfish973,1946-10-07T07:27:26.022Z,78,(07) 3325-3935,Palhoça,Paraíba,50 anos ou mais,CORA SCD S.A.,8656
+Lénio Viana,male,lenio.viana@example.com,silverbird876,1982-11-24T20:15:40.791Z,42,(77) 7586-8342,Paulo Afonso,Alagoas,30 a 49 anos,CREDIBRF COOP,7558
+Romina da Rosa,female,romina.darosa@example.com,smallfrog841,1994-10-10T16:22:56.638Z,30,(32) 0829-1593,Araçatuba,Amazonas,30 a 49 anos,Banco X,9063
+Alivar Lima,male,alivar.lima@example.com,beautifulcat304,1990-08-29T23:55:25.187Z,34,(92) 5570-2965,Jequié,Bahia,30 a 49 anos,RENASCENCA DTVM LTDA,4687
+Taciane Vieira,female,taciane.vieira@example.com,goldenfrog937,1952-12-06T16:42:28.667Z,72,(62) 9387-1485,Recife,Paraná,50 anos ou mais,REALIZE CFI S.A.,8413
+Hélvio Campos,male,helvio.campos@example.com,orangeostrich168,1952-06-30T22:44:08.677Z,72,(06) 8443-4318,Londrina,Roraima,50 anos ou mais,BCO HSBC S.A.,8228
+Jório Moreira,male,jorio.moreira@example.com,orangegoose323,1954-02-24T14:00:29.510Z,71,(13) 8104-1249,Umuarama,Rio de Janeiro,50 anos ou mais,CREDICOAMO,8883
+Gusmão Santos,male,gusmao.santos@example.com,angryrabbit843,1979-12-25T11:49:13.562Z,45,(47) 1628-5454,Parnaíba,Rio Grande do Norte,30 a 49 anos,CONFIDENCE CC S.A.,6624
+Selma das Neves,female,selma.dasneves@example.com,smallpanda283,1962-02-20T11:07:27.827Z,63,(40) 9808-0545,Itapecerica da Serra,Rio Grande do Norte,50 anos ou mais,FACTA S.A. CFI,8438
+Antelmo de Souza,male,antelmo.desouza@example.com,purplelion988,1948-06-06T17:56:31.825Z,77,(79) 1039-0730,Londrina,Distrito Federal,50 anos ou mais,BCO RNX S.A.,6219
+Blanche Nogueira,female,blanche.nogueira@example.com,bigtiger252,1991-12-06T09:36:51.927Z,33,(15) 4568-7081,Maricá,Rio Grande do Sul,30 a 49 anos,BANCO PAN,9949
+Garibaldo Almeida,male,garibaldo.almeida@example.com,brownelephant925,1977-04-19T06:57:06.386Z,48,(36) 2762-2413,São José dos Pinhais,Amazonas,30 a 49 anos,MASTER BI S.A.,7551
+Maura Nascimento,female,maura.nascimento@example.com,redsnake144,1958-01-14T11:12:09.431Z,67,(36) 7430-3738,Coronel Fabriciano,Roraima,50 anos ou mais,UNIPRIME COOPCENTRAL LTDA.,5481
+Helene das Neves,female,helene.dasneves@example.com,greenbear946,1965-02-26T05:15:28.299Z,60,(40) 9939-0077,Birigüi,Ceará,50 anos ou mais,WILL FINANCEIRA S.A.CFI,6662
+Enoque Monteiro,male,enoque.monteiro@example.com,ticklishbear857,1986-09-11T19:03:03.336Z,38,(57) 5276-2125,Itaboraí,Rio de Janeiro,30 a 49 anos,BCO BBI S.A.,8263
+Gervásio Carvalho,male,gervasio.carvalho@example.com,redpanda925,1960-09-24T16:41:34.836Z,64,(24) 2349-3942,Alvorada,Rio Grande do Norte,50 anos ou mais,MAGNETIS - DTVM,9122
+Zeneida Campos,female,zeneida.campos@example.com,organicpeacock886,1973-11-10T12:20:33.992Z,51,(44) 5389-3085,Sobral,Alagoas,50 anos ou mais,BCO BRADESCO BERJ S.A.,6946
+Bértil Silveira,male,bertil.silveira@example.com,silvermeercat168,1994-05-09T20:28:41.584Z,31,(96) 1332-2220,Suzano,Mato Grosso,30 a 49 anos,BCO DO EST. DO PA S.A.,4499
+Gisela de Souza,female,gisela.desouza@example.com,tinywolf925,1993-10-08T00:37:15.852Z,31,(83) 4514-2967,Vitória,Pernambuco,30 a 49 anos,BCO BS2 S.A.,6788
+Acácio Silva,male,acacio.silva@example.com,bluemeercat305,1988-03-04T23:59:55.836Z,37,(98) 6796-8636,Campo Grande,Rondônia,30 a 49 anos,CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO,5543
+Ada Rezende,female,ada.rezende@example.com,lazybird614,1995-06-30T16:12:57.497Z,29,(59) 5106-5610,Guarulhos,Mato Grosso do Sul,18 a 29 anos,MÉRITO DTVM LTDA.,3165
+Sansão Barros,male,sansao.barros@example.com,heavykoala816,1952-07-08T22:01:46.687Z,72,(19) 9407-5939,Colombo,Rio de Janeiro,50 anos ou mais,INTERCAM CC LTDA,6452
+Inácio Nogueira,male,inacio.nogueira@example.com,angrywolf356,1965-11-18T14:43:01.703Z,59,(39) 2678-8364,Camaçari,Bahia,50 anos ou mais,BCO YAMAHA MOTOR S.A.,4060
+Nilde Pinto,female,nilde.pinto@example.com,heavywolf373,1977-12-25T03:15:55.505Z,47,(84) 9563-3616,Colatina,Roraima,30 a 49 anos,LEND SCD S.A.,7113
+Parcidio da Rosa,male,parcidio.darosa@example.com,purplezebra254,1981-03-17T01:18:30.311Z,44,(33) 1880-4283,São José,Sergipe,30 a 49 anos,BCO TRIANGULO S.A.,8116
+Elisandra Duarte,female,elisandra.duarte@example.com,blackbutterfly875,1990-01-05T19:14:58.549Z,35,(31) 2276-3550,Itapipoca,Paraíba,30 a 49 anos,AVENUE SECURITIES DTVM LTDA.,3997
+Demilde da Rocha,female,demilde.darocha@example.com,heavytiger949,1971-08-23T20:57:07.921Z,53,(45) 2318-8783,Bacabal,Rio Grande do Norte,50 anos ou mais,BCO CREFISA S.A.,7367
+Ajuricaba Viana,female,ajuricaba.viana@example.com,blackfrog657,1998-01-26T22:02:37.107Z,27,(65) 7718-0611,Cametá,Maranhão,18 a 29 anos,BCO BS2 S.A.,2663
+Balbino Fogaça,male,balbino.fogaca@example.com,smallpeacock128,1975-10-02T13:30:37.760Z,49,(78) 5422-6264,Volta Redonda,Acre,30 a 49 anos,VALOR SCD S.A.,6779
+Aparecida Silva,female,aparecida.silva@example.com,tinycat564,1987-11-17T06:31:39.450Z,37,(49) 1622-4870,Bagé,Paraíba,30 a 49 anos,PLANNER CV S.A.,6299
+Claudine Moreira,female,claudine.moreira@example.com,angrypeacock532,1948-10-13T19:46:54.166Z,76,(07) 0312-5729,Macaé,Pernambuco,50 anos ou mais,MAGNUM SCD,7537
+Cecílio Silveira,male,cecilio.silveira@example.com,happybutterfly892,1986-01-19T20:06:26.188Z,39,(99) 4086-7256,Araras,Mato Grosso do Sul,30 a 49 anos,MASTER S/A CCTVM,9594
+Falco Ferreira,male,falco.ferreira@example.com,sadkoala194,1971-10-08T02:03:46.845Z,53,(44) 0997-9494,Coronel Fabriciano,Paraíba,50 anos ou mais,Câmara B3,7819
+Indra Gomes,male,indra.gomes@example.com,redmeercat730,1961-02-06T11:44:40.541Z,64,(40) 6032-8218,Varginha,São Paulo,50 anos ou mais,CCR DE SÃO MIGUEL DO OESTE,8431
+Russel Monteiro,male,russel.monteiro@example.com,brownzebra867,2000-11-30T09:50:34.758Z,24,(49) 6516-3315,Joinville,Tocantins,18 a 29 anos,BCO LETSBANK S.A.,3315
+Zeilane Rodrigues,female,zeilane.rodrigues@example.com,beautifulgorilla627,1946-10-25T08:00:29.534Z,78,(27) 7910-4407,Arapiraca,Espírito Santo,50 anos ou mais,BCO BRADESCO S.A.,7954
+Tibério Alves,male,tiberio.alves@example.com,yellowzebra560,1976-01-29T03:54:29.764Z,49,(78) 0024-9238,Diadema,Santa Catarina,30 a 49 anos,TRINUS CAPITAL DTVM,8741
+Didaco da Conceição,male,didaco.daconceicao@example.com,bluerabbit648,1968-11-08T09:39:18.466Z,56,(13) 3004-7777,Mogi Guaçu,Goiás,50 anos ou mais,CCR DE SÃO MIGUEL DO OESTE,7258
+Arcelino Dias,male,arcelino.dias@example.com,tinygoose250,1985-07-29T15:07:22.591Z,39,(85) 4962-7844,Cuiabá,Distrito Federal,30 a 49 anos,BCO ARBI S.A.,4148
+Natália Alves,female,natalia.alves@example.com,brownduck641,1997-12-12T19:04:37.228Z,27,(78) 6940-3169,Nilópolis,Paraíba,18 a 29 anos,CIP SA Siloc,2227
+Rosalba da Rosa,female,rosalba.darosa@example.com,smallelephant362,1988-03-21T10:40:25.831Z,37,(26) 5216-7608,Vila Velha,Maranhão,30 a 49 anos,SIMPAUL,7804
+Apolinário da Costa,male,apolinario.dacosta@example.com,yellowswan694,1955-07-25T22:01:08.780Z,69,(62) 7451-7202,Barueri,Amazonas,50 anos ou mais,BANCO SICOOB S.A.,3831
+Levi Silveira,male,levi.silveira@example.com,brownduck462,1998-07-13T19:00:27.977Z,26,(58) 1649-2023,Piracicaba,Rio de Janeiro,18 a 29 anos,ÍNDIGO INVESTIMENTOS DTVM LTDA.,2992
+Lutero Cavalcanti,male,lutero.cavalcanti@example.com,purplecat207,1991-07-11T05:16:26.457Z,33,(54) 5595-1344,São José dos Campos,Distrito Federal,30 a 49 anos,BROKER BRASIL CC LTDA.,7639
+Almiro Ribeiro,male,almiro.ribeiro@example.com,browngoose326,1954-02-18T02:54:24.462Z,71,(16) 4236-3034,Diadema,São Paulo,50 anos ou mais,SCOTIABANK BRASIL,5710
+Lael Gonçalves,male,lael.goncalves@example.com,goldenbird257,1991-05-09T00:00:53.584Z,34,(12) 3332-3505,Santa Maria,Goiás,30 a 49 anos,ACCREDITO SCD S.A.,6832
+Enes Lopes,male,enes.lopes@example.com,smallswan165,1944-12-06T03:14:38.289Z,80,(04) 2632-9320,Nova Friburgo,Goiás,50 anos ou mais,BCO WOORI BANK DO BRASIL S.A.,9475
+Denise Moreira,female,denise.moreira@example.com,ticklishpeacock599,1955-04-24T12:31:12.055Z,70,(25) 9989-2729,Arapiraca,Rio Grande do Sul,50 anos ou mais,BCO. J.SAFRA S.A.,9166
+Marilda Melo,female,marilda.melo@example.com,goldenrabbit426,1971-07-27T05:45:16.292Z,53,(42) 9719-4358,Recife,Piauí,50 anos ou mais,BCO HSBC S.A.,6529
+Manassés Araújo,male,manasses.araujo@example.com,smallleopard438,1981-07-29T03:18:30.223Z,43,(60) 7782-8313,São Vicente,Acre,30 a 49 anos,LAMARA SCD S.A.,4977
+Divineide Aragão,female,divineide.aragao@example.com,silvermeercat500,1948-03-06T10:01:33.682Z,77,(05) 7375-5938,São José de Ribamar,Rio de Janeiro,50 anos ou mais,ÓRAMA DTVM S.A.,7351
+Juliano Pires,male,juliano.pires@example.com,greenduck206,1958-02-19T18:37:59.519Z,67,(31) 3755-5119,Uberlândia,Rio Grande do Sul,50 anos ou mais,PLANTAE CFI,4641
+Cleci Moura,female,cleci.moura@example.com,crazypeacock410,1948-12-14T01:27:08.461Z,76,(35) 1919-5413,Macaé,Rondônia,50 anos ou mais,VIA CERTA FINANCIADORA S.A. - CFI,9635
+Apolo Carvalho,male,apolo.carvalho@example.com,greengoose547,1947-03-04T11:02:45.447Z,78,(53) 0570-6086,Olinda,Distrito Federal,50 anos ou mais,BCO CLASSICO S.A.,9846
+Andira Barbosa,female,andira.barbosa@example.com,goldendog525,1995-09-28T06:18:05.137Z,29,(28) 3367-8254,Colatina,Piauí,18 a 29 anos,CCR DE ABELARDO LUZ,3236
+Emi Alves,female,emi.alves@example.com,bigzebra896,1998-06-11T10:32:46.908Z,27,(75) 3840-0259,Aracaju,Distrito Federal,18 a 29 anos,MONETARIE SCD,3312
+Malvina Melo,female,malvina.melo@example.com,yellowcat486,1981-02-11T20:00:32.310Z,44,(46) 9933-2886,Criciúma,Pará,30 a 49 anos,OZ CORRETORA DE CÂMBIO S.A.,3919
+Lidiane da Luz,female,lidiane.daluz@example.com,crazypeacock310,1992-10-20T07:28:04.148Z,32,(95) 0822-8109,Coronel Fabriciano,Distrito Federal,30 a 49 anos,B&T CC LTDA.,7492
+Nino Freitas,male,nino.freitas@example.com,blackduck695,1995-12-21T08:20:51.033Z,29,(78) 1400-5590,Salto,Distrito Federal,18 a 29 anos,VALOR SCD S.A.,1468
+Dácio Cavalcanti,male,dacio.cavalcanti@example.com,beautifuldog139,1969-02-10T14:28:34.496Z,56,(35) 0577-2965,Recife,Espírito Santo,50 anos ou mais,BCO ITAÚ BBA S.A.,9373
+Maximiano Fernandes,male,maximiano.fernandes@example.com,redpeacock990,1991-05-18T10:36:58.522Z,34,(75) 9568-4349,Parintins,Pará,30 a 49 anos,GUITTA CC LTDA,4637
+Aitor Vieira,male,aitor.vieira@example.com,organicleopard682,1948-03-06T05:31:14.098Z,77,(97) 9433-0280,São Leopoldo,Pernambuco,50 anos ou mais,BCO GM S.A.,7773
+Joana Moraes,female,joana.moraes@example.com,lazybutterfly804,1968-01-08T15:56:13.530Z,57,(11) 7401-4093,Caxias,Sergipe,50 anos ou mais,BCO PAULISTA S.A.,5950
+Vidal Ribeiro,male,vidal.ribeiro@example.com,beautifultiger249,1986-11-03T13:56:32.068Z,38,(45) 2171-7784,Limeira,Rio Grande do Sul,30 a 49 anos,DOCK IP S.A.,3967
+Zeli da Conceição,female,zeli.daconceicao@example.com,greenzebra100,1995-09-19T09:32:09.511Z,29,(64) 6954-9558,Rio Branco,Bahia,18 a 29 anos,BANCO SISTEMA,3327
+Maximino da Cunha,male,maximino.dacunha@example.com,yellowcat472,1996-03-21T19:24:31.776Z,29,(88) 0674-2742,Recife,Paraná,18 a 29 anos,CREDISAN CC,1602
+Vancléia Pires,female,vancleia.pires@example.com,goldenmouse442,1985-06-27T15:20:51.366Z,39,(16) 7623-4943,Anápolis,Rio Grande do Norte,30 a 49 anos,BANCO PAN,6556
+Expedito Moura,male,expedito.moura@example.com,silvercat292,1950-06-26T06:10:02.831Z,74,(46) 4560-9626,Divinópolis,Amazonas,50 anos ou mais,SISPRIME DO BRASIL - COOP,8066
+Briolanjo Porto,male,briolanjo.porto@example.com,brownladybug812,2000-02-09T17:39:56.189Z,25,(89) 3263-3763,Hortolândia,Paraná,18 a 29 anos,CREHNOR LARANJEIRAS,2738
+Valério Fogaça,male,valerio.fogaca@example.com,reddog892,1949-12-08T17:55:32.088Z,75,(07) 7466-8236,Embu,São Paulo,50 anos ou mais,BCO CLASSICO S.A.,9908
+Marlene Jesus,female,marlene.jesus@example.com,purplefrog874,1986-12-23T17:07:14.259Z,38,(77) 4884-5347,Guarapuava,Rio Grande do Sul,30 a 49 anos,LASTRO RDV DTVM LTDA,5795
+Eustácio Ramos,male,eustacio.ramos@example.com,brownkoala759,1965-05-20T05:37:33.740Z,60,(78) 9158-4755,Indaiatuba,Santa Catarina,50 anos ou mais,RENASCENCA DTVM LTDA,8590
+Desidério da Paz,male,desiderio.dapaz@example.com,orangeswan338,1961-08-28T07:26:41.714Z,63,(01) 2006-5844,Curitiba,Acre,50 anos ou mais,MICROCASH SCMEPP LTDA.,4377
+Rosilei Lopes,female,rosilei.lopes@example.com,lazybird494,1995-04-29T08:39:46.707Z,30,(33) 6005-1652,Araçatuba,Pará,30 a 49 anos,BMS SCD S.A.,8798
+Josiene Ramos,female,josiene.ramos@example.com,orangeostrich199,1972-11-15T13:25:41.539Z,52,(38) 7512-0427,Barueri,Sergipe,50 anos ou mais,CREFAZ SCMEPP LTDA,6979
+Egil Souza,male,egil.souza@example.com,angrymeercat293,1981-08-12T05:33:11.322Z,43,(76) 7569-8815,Cotia,Minas Gerais,30 a 49 anos,BCO SOCIETE GENERALE BRASIL,4944
+Ascenso da Luz,male,ascenso.daluz@example.com,bigpeacock559,1990-03-14T11:46:27.554Z,35,(61) 3260-7254,Apucarana,Amapá,30 a 49 anos,NU INVEST CORRETORA DE VALORES S.A.,7276
+Almirodo Freitas,male,almirodo.freitas@example.com,tinybird283,1949-02-23T20:46:25.252Z,76,(66) 7382-6710,Vespasiano,Roraima,50 anos ou mais,SOCIAL BANK S/A,7602
+Lauriete Duarte,female,lauriete.duarte@example.com,beautifulleopard796,2001-01-15T13:56:21.752Z,24,(30) 2600-7666,Duque de Caxias,Tocantins,18 a 29 anos,LEVYCAM CCV LTDA,1492
+Etiene Melo,female,etiene.melo@example.com,bluetiger465,1955-03-24T06:10:53.215Z,70,(34) 9383-7742,Belém,Mato Grosso,50 anos ou mais,VORTX DTVM LTDA.,7389
+Jadiara da Luz,female,jadiara.daluz@example.com,redbutterfly336,1967-06-19T01:43:16.680Z,58,(79) 3767-4334,Paço do Lumiar,São Paulo,50 anos ou mais,PARMETAL DTVM LTDA,5389
+Fortunata Cavalcanti,female,fortunata.cavalcanti@example.com,biglion943,1997-10-29T22:27:19.130Z,27,(72) 4595-9585,Rio Verde,Maranhão,18 a 29 anos,AL5 S.A. CFI,1630
+Trajano da Mota,male,trajano.damota@example.com,happytiger225,1958-02-17T08:47:55.504Z,67,(96) 3652-1987,Pinhais,Alagoas,50 anos ou mais,BCO BMG S.A.,3704
+Imaculada Pires,female,imaculada.pires@example.com,angryostrich736,1996-02-26T16:46:51.176Z,29,(44) 8207-1501,Teixeira de Freitas,São Paulo,18 a 29 anos,WNT CAPITAL DTVM,1515
+Sinara Fernandes,female,sinara.fernandes@example.com,organiclion586,1948-08-29T18:21:37.336Z,76,(11) 2900-0712,Mogi Guaçu,Acre,50 anos ou mais,BCO YAMAHA MOTOR S.A.,4532
+Nilzete Nogueira,female,nilzete.nogueira@example.com,tinymeercat155,1986-11-17T08:55:58.109Z,38,(45) 4927-5980,São Paulo,Sergipe,30 a 49 anos,Bacen,9477
+Emanuela da Rocha,female,emanuela.darocha@example.com,lazyleopard383,1987-03-25T22:39:40.152Z,38,(79) 6395-2161,Canoas,Piauí,30 a 49 anos,BCO DIGIMAIS S.A.,6142
+Ilma Farias,female,ilma.farias@example.com,smallfish447,1955-01-07T06:59:15.773Z,70,(34) 2973-6370,Poços de Caldas,Alagoas,50 anos ou mais,MAGNUM SCD,9077
+Lopo Monteiro,male,lopo.monteiro@example.com,happybird636,1963-01-14T22:17:42.026Z,62,(91) 3149-5949,Guarujá,Bahia,50 anos ou mais,CREDITAS SCD,4437
+Henoch Fernandes,male,henoch.fernandes@example.com,sadbird872,1945-07-15T09:19:30.474Z,79,(66) 5711-5859,Corumbá,Pernambuco,50 anos ou mais,BCO BS2 S.A.,8358
+Roseli da Cunha,female,roseli.dacunha@example.com,angrygoose819,1983-11-11T08:52:54.994Z,41,(57) 2745-1917,Vitória,Ceará,30 a 49 anos,TRINUS SCD S.A.,4980
